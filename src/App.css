@@ -14,7 +14,9 @@
   background-color: white;
 }
 
-
+*{
+  margin: 0;
+}
 .btns{
   display: flex;
   width: 100%;
